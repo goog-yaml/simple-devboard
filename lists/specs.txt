@@ -1,0 +1,13 @@
+# Checklist for mk1 and specs:
+#
+# Microcontroller: ESP8226
+#
+# USB to Serial: FTDI FT230X
+#
+# IC Voltage Regulator: AMS1117
+#
+# Schotty Diode for VOltage Regulation
+#
+# MCP3208 Analog to Digital IC
+#
+# MCP23S17 GPIO Extender Microcontroller
