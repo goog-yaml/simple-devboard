@@ -1,3 +1,3 @@
-# XMLABS MK1
+If you are reading this, feel free to contribute in any way, just branch off and make a pull request later.
 
-Starting the open computer revolution, step by step.
+Currently, the vision for this is to make a custom radio and motor devboard for RC devices like advanced/ research RC submarines, drones, and wheeled vehicle.
