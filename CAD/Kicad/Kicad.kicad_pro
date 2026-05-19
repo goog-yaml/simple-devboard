@@ -637,13 +637,18 @@
       {
         "filename": "Kicad.kicad_sch",
         "name": "Kicad",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "a972b0d3-46a0-4f09-b60b-5ab9fef2950e"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R1-2,C1-2,J1,U1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "a972b0d3-46a0-4f09-b60b-5ab9fef2950e",
+      "Kicad"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
