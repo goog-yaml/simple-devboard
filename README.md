@@ -2,4 +2,4 @@ If you are reading this, feel free to contribute in any way, just branch off and
 
 Currently, the vision for this is to make a custom radio and motor devboard for RC devices like advanced/ research RC submarines, drones, and wheeled vehicle.
 
-Luca Ashman touches himself violently with custom PCBs
+Luca Ashman I see you
