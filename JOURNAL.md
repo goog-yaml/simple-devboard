@@ -34,7 +34,7 @@ Added and finalized a serial connection with the AI side and low level hardware 
 
 # May 26th: Redid the entire project only to loose it all, I'm gonna cry
 
-I redid the entire PCB design and added supporting capacitors, diodes, and the likes. When I was finishing my timelapse disaster struck and my tab crashed while saving, I lost ~3 hrs of work. Support can't do anything either. My blood is boiling as of writing this...
+I redid the entire PCB design and added supporting capacitors, diodes, and the likes. When I was finishing my timelapse disaster struck, my laptop ran out of RAM and my tab crashed while saving, I lost ~3 hrs of work. Support can't do anything either. My blood is boiling as of writing this...
 
 ![initial time recorded before issue](lapseissue1.png)
 ![tab crash during upload](lapseissue2.png)
