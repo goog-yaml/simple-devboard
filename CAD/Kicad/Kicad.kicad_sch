@@ -7419,9 +7419,9 @@
 		)
 		(uuid "875a8e7d-dc4b-4079-a530-b1aee6a17ef9")
 	)
-	(text "Add warning to NOT connect this to a non Cloudboard board!"
+	(text "Add warning to NOT connect this to a non Cloudboard board or anything BUT the hubs/addons!"
 		(exclude_from_sim no)
-		(at 79.248 202.438 0)
+		(at 90.17 200.406 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7783,12 +7783,6 @@
 		(uuid "8f13e877-7250-44e7-a268-995036501bd7")
 	)
 	(junction
-		(at 33.02 231.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9464ce1b-15ee-4cdc-8b79-0aa1f075737e")
-	)
-	(junction
 		(at 177.8 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7805,12 +7799,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d064a82-6fba-46b4-b181-d8c02c5c9cc0")
-	)
-	(junction
-		(at 48.26 223.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9fdf8013-861c-448a-b5a1-9b614d13a3f9")
 	)
 	(junction
 		(at 312.42 29.21)
@@ -8167,6 +8155,16 @@
 			(type default)
 		)
 		(uuid "115981ba-a7bd-4f9a-b785-4842c0df6160")
+	)
+	(wire
+		(pts
+			(xy 43.18 205.74) (xy 50.8 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11e81c95-c2a1-4f5c-8f58-61f9e66af996")
 	)
 	(wire
 		(pts
@@ -8790,7 +8788,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 231.14) (xy 33.02 245.11)
+			(xy 33.02 228.6) (xy 33.02 245.11)
 		)
 		(stroke
 			(width 0)
@@ -9420,16 +9418,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 231.14) (xy 48.26 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "787b1492-43b6-423e-9928-5627f6350314")
-	)
-	(wire
-		(pts
 			(xy 267.97 250.19) (xy 270.51 250.19)
 		)
 		(stroke
@@ -9477,6 +9465,16 @@
 			(type default)
 		)
 		(uuid "7b4b3d35-e56b-4db7-8fe5-0bdd76b93e55")
+	)
+	(wire
+		(pts
+			(xy 43.18 223.52) (xy 50.8 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bbd736c-de97-434b-ba45-8a9916c9fd04")
 	)
 	(wire
 		(pts
@@ -9982,16 +9980,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 223.52) (xy 48.26 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a35ae8d6-818c-4ad6-bc42-51f63f71751d")
-	)
-	(wire
-		(pts
 			(xy 328.93 170.18) (xy 328.93 176.53)
 		)
 		(stroke
@@ -10202,6 +10190,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 208.28) (xy 50.8 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4da294d-fdd9-44ee-aa31-6ac57bb8ca6c")
+	)
+	(wire
+		(pts
 			(xy 175.26 20.32) (xy 175.26 17.78)
 		)
 		(stroke
@@ -10382,16 +10380,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 223.52) (xy 50.8 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c55cb1a9-5cba-4a81-99bf-5c4de4efbec7")
-	)
-	(wire
-		(pts
 			(xy 186.69 179.07) (xy 186.69 184.15)
 		)
 		(stroke
@@ -10459,16 +10447,6 @@
 			(type default)
 		)
 		(uuid "cce5109d-3c88-4e53-a7f9-03c66f3cc07c")
-	)
-	(wire
-		(pts
-			(xy 33.02 231.14) (xy 48.26 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce641615-00d2-4420-ae6a-9f8c2b5522ef")
 	)
 	(wire
 		(pts
@@ -10609,16 +10587,6 @@
 			(type default)
 		)
 		(uuid "d79b03f0-e978-40c2-8366-3c7508ea0565")
-	)
-	(wire
-		(pts
-			(xy 33.02 231.14) (xy 33.02 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8dfdeaf-a1e1-4379-80aa-c0248b414bf0")
 	)
 	(wire
 		(pts
@@ -11130,6 +11098,16 @@
 		)
 		(uuid "599079c4-d964-486c-bfb1-89a3575114cb")
 	)
+	(label "MISO"
+		(at 50.8 205.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ca82be6-1e2e-492b-857c-532734cfa3af")
+	)
 	(label "MAIN_BUS_I2C_SDA"
 		(at 196.85 17.78 0)
 		(effects
@@ -11240,16 +11218,6 @@
 		)
 		(uuid "a1223cdd-5e44-425c-8cab-724543ec94b2")
 	)
-	(label "I2C_COMMON_GND"
-		(at 50.8 223.52 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a19b8834-c88f-40eb-87e9-f2afc6df7ff0")
-	)
 	(label "ESP_8266_XIN"
 		(at 78.74 179.07 180)
 		(effects
@@ -11320,6 +11288,16 @@
 		)
 		(uuid "d0e2175d-4eb1-4771-a440-3d485b679911")
 	)
+	(label "MCLK"
+		(at 50.8 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db9ac0c4-87c6-44b1-9dd6-06d4f6189ee5")
+	)
 	(label "MAIN_BUS_I2C_SDA"
 		(at 287.02 121.92 180)
 		(effects
@@ -11359,6 +11337,16 @@
 			(justify left bottom)
 		)
 		(uuid "f0b6fccb-64c1-4e71-b7a0-75431b9607c2")
+	)
+	(label "MOSI"
+		(at 50.8 208.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3104475-fd7b-42c8-988b-929f20a6844e")
 	)
 	(label "ESP_8266_USB_D+"
 		(at 53.34 158.75 0)

@@ -79,7 +79,7 @@ Added and did more work on the AI coprocessor and crystal, I also put together t
 
 ![timelapse thumbnail](https://public.lapse-hackclub.link/timelapses/Z7q9jt8_0wht/thumbnail-Z7q9jt8_0wht.avif)
 
-**Total time spent: 1h 6m***
+**Total time spent: 1h 6m**
 
 # May 27th, 2:00PM: Sensing board redos and fixing the toast I2C bus.
 
@@ -92,3 +92,13 @@ I forgot the radio board and ran out of time, I gotta run now.
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/-vGMhz-j6N5g/thumbnail--vGMhz-j6N5g.avif)
 
 **Total time spent: 55 mins**
+
+# May 24th, 5:00PM: Vision research and a lot of datasheet reading
+
+This time, instead of working on the PCB I did some research for what I can use for AI vision, I'm beginning to think I can't... I don't know, I didn't do a lot though.
+
+-Matias
+
+![thumbnail](https://public.lapse-hackclub.link/timelapses/Gs-rArC55PSK/thumbnail-Gs-rArC55PSK.avif)
+
+**Total time spent: 1hr**
