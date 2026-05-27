@@ -89,4 +89,4 @@ I forgot the radio board and ran out of time, I gotta run now.
 
 -Matias
 
-![thumbnail]()
+![thumbnail](https://public.lapse-hackclub.link/timelapses/-vGMhz-j6N5g/thumbnail--vGMhz-j6N5g.avif)
