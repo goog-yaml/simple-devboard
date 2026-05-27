@@ -71,3 +71,22 @@ Goodnight.
 
 **Total time spent: ~1.5hrs**
 
+# May 27th, 11:00AM: Back at it again
+
+Added and did more work on the AI coprocessor and crystal, I also put together the connections for the sensing board and I2C bus for the main hub, I might add a second display module, I don't know. I'm going to come back this evening add add and research a radio unit, who knows. I currently have like five hours of Radiohead listening time this month on Amazon Music and It's not slowing down, it's me and my Radiohead  albums against the world. :cry:
+
+-Matias
+
+![timelapse thumbnail](https://public.lapse-hackclub.link/timelapses/Z7q9jt8_0wht/thumbnail-Z7q9jt8_0wht.avif)
+
+**Total time spent: 1h 6m***
+
+# May 27th, 2:00PM: Sensing board redos and fixing the toast I2C bus.
+
+I fixed and replaced the original RJ12 telephone jack and added a new RJ45 to carry the I2C bus, I also set up the INT pin on the bus and did the sensor board. Yay me!
+
+I forgot the radio board and ran out of time, I gotta run now.
+
+-Matias
+
+![thumbnail]()
