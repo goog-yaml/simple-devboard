@@ -1,8 +1,8 @@
 ---
-title: "Cloudboard"
-author: "Matias Argandona (known as goog07)"
-description: "An ESP based develoment board using two processors, one low power and one high power that run side by side."
-created_at: "2025-05-24"
+Title: "Cloudboard"
+Author: "Matias Argandona AKA Goog07,Goog-hash,Goog-yaml"
+Description: "An ESP based develoment board using two processors, one low power and one high power that run side by side."
+Created_at: "2025-05-24"
 ---
 
 
