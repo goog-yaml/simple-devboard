@@ -10,6 +10,8 @@ Created_at: "2025-05-24"
 
 Started initial schematic and added entire main PCB
 
+-Matias
+
 ![May 24th schematic screenshot](https://public.lapse-hackclub.link/timelapses/mtv7v_8XFG6k/thumbnail-mtv7v_8XFG6k.avif)
 
 **Total time spent: 1h 4m**
@@ -18,6 +20,8 @@ Started initial schematic and added entire main PCB
 # May 24th, Evening: Motive changes and extra additions 
 
 Added more components like a SPI DAC, GPIO extender, and a USB Controller. Changing this project motive to an avionics board.
+
+-Matias
 
 ![May 24th schematic screenshot](https://public.lapse-hackclub.link/timelapses/GocF0tKfYkj8/thumbnail-GocF0tKfYkj8.avif)
 
@@ -28,6 +32,8 @@ Added more components like a SPI DAC, GPIO extender, and a USB Controller. Chang
 
 Added and finalized a serial connection with the AI side and low level hardware side.
 
+-Matias
+
 ![May 25th schematic screenshot](https://public.lapse-hackclub.link/timelapses/3HEgRRwrtEbT/thumbnail-3HEgRRwrtEbT.avif)
 
 **Total time spent: 43m**
@@ -36,9 +42,32 @@ Added and finalized a serial connection with the AI side and low level hardware 
 
 I redid the entire PCB design and added supporting capacitors, diodes, and the likes. When I was finishing my timelapse disaster struck, my laptop ran out of RAM and my tab crashed while saving, I lost ~3 hrs of work. Support can't do anything either. My blood is boiling as of writing this...
 
+-Matias
+
 ![initial time recorded before issue](lapseissue1.png)
 ![tab crash during upload](lapseissue2.png)
 ![it seems the file got corrupted, this is what happens when I try to view it.](lapseissue3.png)
 
 (unoffical)
 **Total time spent: 2h 39m**
+
+# May 26th, almost 27th, Midnight: Attempts at reimbursing lost hours
+
+I worked for about and hour and a half just redoing more PCB work overtime to contrast the 2+ Hrs lost =(((. Still working and going strong. I better get into nexus istg.
+
+For this session I added supporting components to the ESP32-S3 AI module, still on the fence about the motives for this project but whatever. The only thing getting me through all this work is me and my Radiohead albums against the world, I listened to Hail to the Thief at least five times today, heavy on <em>Wolf At the Door</em> By Radiohead, totally my favorite song in the album. I gotta touch up on my markdown skills for this journal lmao.
+
+I'm looking back an realizing I kinda need to be more descriptive with these entries.
+
+I'm tired...
+
+Signing off at 23:55:19.
+
+Goodnight.
+
+-Matias
+
+![screenshot of last night](https://public.lapse-hackclub.link/timelapses/OwKqlk_MC5PQ/thumbnail-OwKqlk_MC5PQ.avif)
+
+**Total time spent: ~1.5hrs**
+
