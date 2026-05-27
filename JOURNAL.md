@@ -90,3 +90,5 @@ I forgot the radio board and ran out of time, I gotta run now.
 -Matias
 
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/-vGMhz-j6N5g/thumbnail--vGMhz-j6N5g.avif)
+
+**Total time spent: 55 mins**
