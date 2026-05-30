@@ -102,3 +102,14 @@ This time, instead of working on the PCB I did some research for what I can use 
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/Gs-rArC55PSK/thumbnail-Gs-rArC55PSK.avif)
 
 **Total time spent: 1hr**
+
+# May 29th: Finished schematics!
+
+Today, I finished the schematics and yesterday I redid them again but could not track time :sad:. Today I did research on transistors, added reset, boot, and power OR circuits, I also arranged and set footprints for each component. Yay!
+
+-Matias
+
+![thumbnail](https://public.lapse-hackclub.link/timelapses/OgsNnIPAgg86/thumbnail-OgsNnIPAgg86.avif)
+
+**Total time spent: 2hrs 13mins**
+

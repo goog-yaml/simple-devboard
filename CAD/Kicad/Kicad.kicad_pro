@@ -224,7 +224,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "2"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -582,12 +582,36 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -636,17 +660,17 @@
     "top_level_sheets": [
       {
         "filename": "Kicad.kicad_sch",
-        "name": "Kicad",
-        "uuid": "a972b0d3-46a0-4f09-b60b-5ab9fef2950e"
+        "name": "",
+        "uuid": "fd0b8496-2354-4072-b49b-e154e75e1282"
       }
     ],
-    "used_designators": "#SYM1,J3",
+    "used_designators": "FB1,D1-2,C1-11,SW1-4,R1-11,J1-7,Q1-2,U1-9",
     "variants": []
   },
   "sheets": [
     [
-      "a972b0d3-46a0-4f09-b60b-5ab9fef2950e",
-      "Kicad"
+      "fd0b8496-2354-4072-b49b-e154e75e1282",
+      ""
     ]
   ],
   "text_variables": {},
