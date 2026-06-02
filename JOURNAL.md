@@ -113,3 +113,21 @@ Today, I finished the schematics and yesterday I redid them again but could not 
 
 **Total time spent: 2hrs 13mins**
 
+# May 31st: Started Schematics
+
+Today I just added footprints for some generic components and then I started PCB floorplanning, not a lot of work done.
+
+-Matias
+
+![thumbnail](https://public.lapse-hackclub.link/timelapses/jtkZqAfn9zF8/thumbnail-jtkZqAfn9zF8.avif)
+**Total time spent: 14min**
+
+# June 1st: Started PCB traces and more floorplanning
+
+Today I started traces but then decided to scrap it for more effective floorplanning of the PCB, to be fair this is my first time so I don't expect to be super good at this.
+
+(P.S: floorplaning is the layout without traces of the PCB components)
+
+-Matias
+
+![thumbnail](https://public.lapse-hackclub.link/timelapses/9fUPD_tEbTua/thumbnail-9fUPD_tEbTua.avif)

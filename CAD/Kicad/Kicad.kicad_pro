@@ -501,7 +501,80 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/5V_USB_0": [
+        "Power"
+      ],
+      "/5V_USB_1": [
+        "Power"
+      ],
+      "/BOOT": [
+        "Logic"
+      ],
+      "/CBUS0": [
+        "I/O"
+      ],
+      "/CBUS1": [
+        "I/O"
+      ],
+      "/CS_BUS_A": [
+        "I/O"
+      ],
+      "/CS_BUS_B": [
+        "I/O"
+      ],
+      "/DTR_A": [
+        "Logic"
+      ],
+      "/ESP32_AUTORST": [
+        "Logic"
+      ],
+      "/ESP32_RXD": [
+        "Data"
+      ],
+      "/ESP32_TXD": [
+        "Data"
+      ],
+      "/GND": [
+        "Power"
+      ],
+      "/IOOUT_A": [
+        "Power"
+      ],
+      "/MISO_BUS_B": [
+        "I/O"
+      ],
+      "/MOSI_BUS_B": [
+        "I/O"
+      ],
+      "/NATIVE_D+": [
+        "Data"
+      ],
+      "/NATIVE_D-": [
+        "Data"
+      ],
+      "/OROUT": [
+        "Power"
+      ],
+      "/RTS_A": [
+        "Logic"
+      ],
+      "/SCK_BUS_B": [
+        "I/O"
+      ],
+      "/SERIAL_D+": [
+        "Data"
+      ],
+      "/SERIAL_D-": [
+        "Data"
+      ],
+      "/VCC0": [
+        "Power"
+      ],
+      "/VIN": [
+        "Power"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -664,7 +737,7 @@
         "uuid": "fd0b8496-2354-4072-b49b-e154e75e1282"
       }
     ],
-    "used_designators": "FB1,D1-2,C1-11,SW1-4,R1-11,J1-7,Q1-2,U1-9",
+    "used_designators": "FB1-2,D1-2,C1-11,SW1-4,R1-11,J1-7,Q1-2,U1-9",
     "variants": []
   },
   "sheets": [
