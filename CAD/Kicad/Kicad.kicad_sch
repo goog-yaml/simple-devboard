@@ -5077,6 +5077,12 @@
 		(uuid "291fb75e-d7c3-42eb-a284-a8c80ffd9a67")
 	)
 	(junction
+		(at 241.3 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35636711-1c12-4443-8f3b-8e6fdfe60a54")
+	)
+	(junction
 		(at 182.88 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5178,6 +5184,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 85.09) (xy 237.49 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02323f6d-ffe4-4510-9dbf-421277eec369")
+	)
+	(wire
+		(pts
 			(xy 90.17 161.29) (xy 86.36 161.29)
 		)
 		(stroke
@@ -5215,6 +5231,16 @@
 			(type default)
 		)
 		(uuid "129b77f7-0a0d-406d-96ef-83cac7344386")
+	)
+	(wire
+		(pts
+			(xy 229.87 85.09) (xy 227.33 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13d99b48-6586-4441-9037-6338dd9d5bbe")
 	)
 	(wire
 		(pts
@@ -5558,7 +5584,17 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 78.74) (xy 241.3 78.74)
+			(xy 241.3 83.82) (xy 241.3 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f7e79a1-0938-4000-87df-0e8c74054f7b")
+	)
+	(wire
+		(pts
+			(xy 227.33 78.74) (xy 229.87 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6408,6 +6444,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 78.74) (xy 241.3 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde29bae-7deb-434d-819c-dc006188a546")
+	)
+	(wire
+		(pts
 			(xy 96.52 156.21) (xy 100.33 156.21)
 		)
 		(stroke
@@ -6436,7 +6482,7 @@
 		)
 		(uuid "ffaddc2a-ca72-456b-b555-f9716e53bbcd")
 	)
-	(label "SPICLK_BUS_A"
+	(label "SCK_BUS_A"
 		(at 29.21 74.93 180)
 		(effects
 			(font
@@ -6456,7 +6502,7 @@
 		)
 		(uuid "01282793-6457-4c4f-a175-f2529d61148e")
 	)
-	(label "SPICLK_BUS_A"
+	(label "SCK_BUS_A"
 		(at 142.24 62.23 0)
 		(effects
 			(font
@@ -6608,7 +6654,7 @@
 			)
 		)
 	)
-	(label "CS_BUS_B"
+	(label "CS_BUS_A"
 		(at 234.95 130.81 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6860,7 +6906,7 @@
 		)
 		(uuid "39405e43-cf1a-4485-a69e-3e616aacde0c")
 	)
-	(label "MOSI_BUS_B"
+	(label "MOSI_BUS_A"
 		(at 234.95 123.19 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6912,6 +6958,29 @@
 			(justify left bottom)
 		)
 		(uuid "3ea07346-83ad-4aaa-bb9e-0fbf591f5755")
+	)
+	(label "BOOT"
+		(at 135.89 31.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ea7b46d-6d1f-4081-99e4-c1751f83712e")
+		(property "Net Class" "Logic"
+			(at 135.89 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "MOSI_BUS_A"
 		(at 29.21 77.47 180)
@@ -7031,16 +7100,6 @@
 			(justify right bottom)
 		)
 		(uuid "4a7c029a-3cc6-4bb4-ab14-d50d4f48b748")
-	)
-	(label "IO0"
-		(at 35.56 105.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4ba8f707-8e97-4de2-91fa-5e155d4e533e")
 	)
 	(label "ESP32_AUTORST"
 		(at 101.6 40.64 180)
@@ -7204,6 +7263,29 @@
 			)
 		)
 	)
+	(label "BOOT"
+		(at 35.56 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5ec78f8f-7e61-4159-9463-cef6d3888877")
+		(property "Net Class" "Logic"
+			(at 35.56 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
+	)
 	(label "DTR_A"
 		(at 219.71 30.48 0)
 		(fields_autoplaced yes)
@@ -7290,16 +7372,6 @@
 		)
 		(uuid "6bd635ae-c527-4e5a-b7a5-8cd665bb287d")
 	)
-	(label "IO0"
-		(at 135.89 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6c3efbf9-f811-4a1f-ac58-130bd3cf5efe")
-	)
 	(label "GND"
 		(at 278.13 135.89 0)
 		(effects
@@ -7356,7 +7428,7 @@
 			)
 		)
 	)
-	(label "SCK_BUS_B"
+	(label "SCK_BUS_A"
 		(at 234.95 128.27 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7442,7 +7514,7 @@
 		)
 		(uuid "74a74f48-ba14-44b6-83ff-70e994a9b8d3")
 	)
-	(label "MISO_BUS_B"
+	(label "MISO_BUS_A"
 		(at 234.95 125.73 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7617,6 +7689,29 @@
 		)
 		(uuid "889a1afa-3307-468a-a197-db9b687ffd8e")
 	)
+	(label "5V_USB_0"
+		(at 85.09 92.71 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "88bb0c58-4378-4da7-8dbb-8bce57dd59d8")
+		(property "Net Class" "Power"
+			(at 86.36 92.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
+	)
 	(label "IO14"
 		(at 35.56 69.85 180)
 		(effects
@@ -7753,6 +7848,29 @@
 					(italic yes)
 				)
 				(justify left)
+			)
+		)
+	)
+	(label "5V_USB_1"
+		(at 86.36 148.59 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9ac988d7-0153-4173-b52b-eed31098846b")
+		(property "Net Class" "Power"
+			(at 87.63 148.59 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -8305,6 +8423,29 @@
 			)
 		)
 	)
+	(label "VCC0"
+		(at 123.19 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f66bd7a2-d33a-4502-aaa7-47b7367977d8")
+		(property "Net Class" "Power"
+			(at 124.46 24.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(label "VIN"
 		(at 35.56 21.59 180)
 		(effects
@@ -8480,6 +8621,86 @@
 					(italic yes)
 				)
 				(justify left)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 233.68 78.74 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "004913da-7e18-4498-b936-0d4305662d63")
+		(property "Reference" "D3"
+			(at 233.9975 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 233.9975 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 233.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 233.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "382b0395-4df2-48ca-8d03-08e58a3b497c")
+		)
+		(pin "1"
+			(uuid "aa7b75bf-8077-49b5-8069-2e578977c92f")
+		)
+		(instances
+			(project "Kicad"
+				(path "/fd0b8496-2354-4072-b49b-e154e75e1282"
+					(reference "D3")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -11884,6 +12105,86 @@
 			(project "Kicad"
 				(path "/fd0b8496-2354-4072-b49b-e154e75e1282"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 233.68 85.09 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbd6072d-25a7-4643-935b-066573f0f75f")
+		(property "Reference" "D4"
+			(at 233.9975 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 233.9975 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dc26f774-475b-4132-921d-b38e6a009f63")
+		)
+		(pin "1"
+			(uuid "e6915fa3-1d85-44a5-be78-96cd566fe77f")
+		)
+		(instances
+			(project "Kicad"
+				(path "/fd0b8496-2354-4072-b49b-e154e75e1282"
+					(reference "D4")
 					(unit 1)
 				)
 			)

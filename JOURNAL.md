@@ -131,3 +131,12 @@ Today I started traces but then decided to scrap it for more effective floorplan
 -Matias
 
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/9fUPD_tEbTua/thumbnail-9fUPD_tEbTua.avif)
+
+# June 2nd: Almost done with PCB design
+
+Today I continued on with PCB design and did most of the tracing and heavy lifting, I connected all components including the BME680, the MPU9250, the ESP32-S3, the AMS1117, the IO pins, the RJ45 and USB-C connectors, and the FT230X with all of the capacitors and extra components for them. I set up the board and did some research about vias, traces, and guidelines and multilayering, once finished I started the design process copying down each design from schematic to PCB, next I need to do some tweaking and finish IO connections for the PCB.
+
+-Matias
+
+![thumbnail](https://public.lapse-hackclub.link/timelapses/40KJBx9DT0LL/thumbnail-40KJBx9DT0LL.avif)
+
