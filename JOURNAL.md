@@ -140,3 +140,10 @@ Today I continued on with PCB design and did most of the tracing and heavy lifti
 
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/40KJBx9DT0LL/thumbnail-40KJBx9DT0LL.avif)
 
+# June 17th: Done with Rev1!
+
+After a while I finally finished revision one for the PCB, Yay me! I have not touched this project in a while due to school, but not that school's out I can finally have time to work on this. I'm so glad that after so many setbacks I finally finished the first revision. I'm happy and hopeful for what is to come!
+
+-Matias
+
+No thumbnail here
