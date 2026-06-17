@@ -4,6 +4,13 @@
 	(generator_version "10.0")
 	(uuid "fd0b8496-2354-4072-b49b-e154e75e1282")
 	(paper "A4")
+	(title_block
+		(title "Cloudboard Low Power Module Final Schematic")
+		(date "2026-05-18")
+		(rev "2")
+		(comment 1 "Matias Argandoña")
+		(comment 2 "C 2026")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x20_Pin"
 			(pin_names
@@ -5161,8 +5168,40 @@
 		(uuid "fa452ded-f868-4ce9-83a3-9e21354b0e21")
 	)
 	(no_connect
+		(at 200.66 140.97)
+		(uuid "22b19231-1156-4545-b82d-de11ab701c14")
+	)
+	(no_connect
 		(at 270.51 128.27)
 		(uuid "2ae073ab-0394-49a0-afad-bc479be09f3d")
+	)
+	(no_connect
+		(at 199.39 138.43)
+		(uuid "4c0a510e-529d-4561-ac7a-9e3e9d7a043d")
+	)
+	(no_connect
+		(at 200.66 130.81)
+		(uuid "4ea6e1b2-607e-44a5-9a67-12004023fedb")
+	)
+	(no_connect
+		(at 200.66 133.35)
+		(uuid "6073fd2e-c1b2-4658-942f-58d5a6847915")
+	)
+	(no_connect
+		(at 200.66 143.51)
+		(uuid "61ea9457-ee5b-4901-821c-edeb6e7b5d7a")
+	)
+	(no_connect
+		(at 200.66 138.43)
+		(uuid "697313a9-6343-444d-b549-1f1a287d8fb3")
+	)
+	(no_connect
+		(at 200.66 128.27)
+		(uuid "a15d1195-f4ab-4082-8a75-e0316ac57898")
+	)
+	(no_connect
+		(at 200.66 146.05)
+		(uuid "b0ea6c84-25d2-4d52-bd49-45514934fb47")
 	)
 	(no_connect
 		(at 234.95 135.89)
@@ -5171,6 +5210,10 @@
 	(no_connect
 		(at 270.51 130.81)
 		(uuid "e5c82efd-4834-47e9-bf2e-fb7fd48cd1c3")
+	)
+	(no_connect
+		(at 200.66 123.19)
+		(uuid "f2f7e468-db89-4abf-af89-2613692e21f3")
 	)
 	(wire
 		(pts
@@ -6632,7 +6675,7 @@
 		(uuid "161c3120-d834-4dc0-8e08-f9ab54a90751")
 	)
 	(label "CBUS1"
-		(at 200.66 140.97 0)
+		(at 207.01 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6642,7 +6685,7 @@
 		)
 		(uuid "18ae87db-2752-4d51-8f2b-64575574e3f7")
 		(property "Net Class" "I/O"
-			(at 200.66 142.24 0)
+			(at 207.01 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6758,7 +6801,7 @@
 		(uuid "22ddbcad-a143-4b75-a0c3-dc286c849bde")
 	)
 	(label "CBUS0"
-		(at 200.66 138.43 0)
+		(at 207.01 138.43 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6768,7 +6811,7 @@
 		)
 		(uuid "25f61f6e-f16f-4ec3-b3bf-871f9e2045c5")
 		(property "Net Class" "I/O"
-			(at 200.66 139.7 0)
+			(at 207.01 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
