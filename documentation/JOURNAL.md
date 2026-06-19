@@ -6,7 +6,7 @@ Created_at: "2025-05-24"
 ---
 
 
-# May 24th, Afternoon: Starting this journal, and adding components.
+# May 24th, Afternoon: Starting this journal, and adding components
 
 Started initial schematic and added entire main PCB
 
@@ -16,8 +16,7 @@ Started initial schematic and added entire main PCB
 
 **Total time spent: 1h 4m**
 
-
-# May 24th, Evening: Motive changes and extra additions 
+# May 24th, Evening: Motive changes and extra additions
 
 Added more components like a SPI DAC, GPIO extender, and a USB Controller. Changing this project motive to an avionics board.
 
@@ -27,8 +26,7 @@ Added more components like a SPI DAC, GPIO extender, and a USB Controller. Chang
 
 **Total time spent: 50m**
 
-
-# May 25th: Added coprocessor for AI engine 
+# May 25th: Added coprocessor for AI engine
 
 Added and finalized a serial connection with the AI side and low level hardware side.
 
@@ -81,7 +79,7 @@ Added and did more work on the AI coprocessor and crystal, I also put together t
 
 **Total time spent: 1h 6m**
 
-# May 27th, 2:00PM: Sensing board redos and fixing the toast I2C bus.
+# May 27th, 2:00PM: Sensing board redos and fixing the toast I2C bus
 
 I fixed and replaced the original RJ12 telephone jack and added a new RJ45 to carry the I2C bus, I also set up the INT pin on the bus and did the sensor board. Yay me!
 
@@ -103,7 +101,7 @@ This time, instead of working on the PCB I did some research for what I can use 
 
 **Total time spent: 1hr**
 
-# May 29th: Finished schematics!
+# May 29th: Finished schematics
 
 Today, I finished the schematics and yesterday I redid them again but could not track time :sad:. Today I did research on transistors, added reset, boot, and power OR circuits, I also arranged and set footprints for each component. Yay!
 
@@ -140,10 +138,16 @@ Today I continued on with PCB design and did most of the tracing and heavy lifti
 
 ![thumbnail](https://public.lapse-hackclub.link/timelapses/40KJBx9DT0LL/thumbnail-40KJBx9DT0LL.avif)
 
-# June 17th: Done with Rev1!
+# June 17th: Done with Rev1
 
 After a while I finally finished revision one for the PCB, Yay me! I have not touched this project in a while due to school, but not that school's out I can finally have time to work on this. I'm so glad that after so many setbacks I finally finished the first revision. I'm happy and hopeful for what is to come!
 
 -Matias
 
 No thumbnail here
+
+# June 18th: Restarting the project, again
+
+The original first revision was a compleate blow out, the traces were messy and long and the floorplanning sucked, after some review from other sources online I realized that my project was sure enough not going to work. Instead of giving up I saved the file, duped it into the archives and started a new project. I trimmed down the layers to only two and then I got to work, I stared off by making new DRC checks and now I'm learning how to make custom rules with trace width and clearance. I also make the board much much smaller and made the components much tigher spaced. The top image is the original board.
+![Original board](screenshot-2026-06-19_10-19-29.png)
+![New board](screenshot-2026-06-19_10-25-50.png)
