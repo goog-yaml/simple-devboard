@@ -148,6 +148,6 @@ No thumbnail here
 
 # June 18th: Restarting the project, again
 
-The original first revision was a compleate blow out, the traces were messy and long and the floorplanning sucked, after some review from other sources online I realized that my project was sure enough not going to work. Instead of giving up I saved the file, duped it into the archives and started a new project. I trimmed down the layers to only two and then I got to work, I stared off by making new DRC checks and now I'm learning how to make custom rules with trace width and clearance. I also make the board much much smaller and made the components much tigher spaced. The top image is the original board.
+The original first revision was a compleate blow out, the traces were messy and long and the floorplanning sucked, after some review from other sources online I realized that my project was sure enough not going to work. Instead of giving up I saved the file, duped it into the archives and started a new project. I trimmed down the layers to only two and then I got to work, I stared off by making new DRC checks and now I'm learning how to make custom rules with trace width and clearance. I also make the board much much smaller and made the components much tigher spaced. The first image is the original board.
 ![Original board](screenshot-2026-06-19_10-19-29.png)
 ![New board](screenshot-2026-06-19_10-25-50.png)
