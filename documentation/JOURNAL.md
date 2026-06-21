@@ -148,6 +148,17 @@ No thumbnail here
 
 # June 18th: Restarting the project, again
 
-The original first revision was a compleate blow out, the traces were messy and long and the floorplanning sucked, after some review from other sources online I realized that my project was sure enough not going to work. Instead of giving up I saved the file, duped it into the archives and started a new project. I trimmed down the layers to only two and then I got to work, I stared off by making new DRC checks and now I'm learning how to make custom rules with trace width and clearance. I also make the board much much smaller and made the components much tigher spaced. The first image is the original board.
+The original first revision was a full blow out, the traces were messy and long and the floorplanning sucked, after some review from other sources online I realized that my project was sure enough not going to work. Instead of giving up I saved the file, duped it into the archives and started a new project. I trimmed down the layers to only two and then I got to work, I stared off by making new DRC checks and now I'm learning how to make custom rules with trace width and clearance. I also make the board much much smaller and made the components much tighter spaced. The first image is the original board.
 ![Original board](screenshot-2026-06-19_10-19-29.png)
 ![New board](screenshot-2026-06-19_10-25-50.png)
+
+# June 19th and 21st: Starting the rough draft of floorplaning so many times I lost count
+
+Today I worked around three ish hours to restart the component layout again and again but no fear, I have hope. Thankfully enough this is a project for me to learn PCB design, the hard way. It's paying off very well considering I'm getting better with every revision and every schematic. Just look at the first board compared to now:
+![OG Rev1](oldboard.png)
+![New and cooler board](newboard.png)
+I know that the new board still kinda sucks but I will take it. It's going well right now with the layouts.
+I need to head over for vacation soon so I don't think I will be able to work on this project for a while
+
+Time Spent: 3hrs
+-Matias
