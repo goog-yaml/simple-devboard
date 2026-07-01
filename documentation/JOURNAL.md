@@ -162,3 +162,47 @@ I need to head over for vacation soon so I don't think I will be able to work on
 
 Time Spent: 3hrs
 -Matias
+
+# June 26th: Simple work
+
+All I really did today was follow user online about swapping the AMS117 with another unit from TI because the AMS unit has thermal issues. The TI unit is more advanced and seems to be more up to date that the janky AMS117. That's all though.
+
+Time spent 1hr
+-Matias
+![thumbnail](https://lookout.hackclub.com/api/media/871c4065-317b-4b38-9237-a6ae7b022158/thumbnail.jpg)
+
+# June 27th: Graphics and almost nothing at all done
+
+I did a little bit of research on ESD symbols because the datasheet for the TI LVR warns about ESD damage. I honestly did nothing here.
+
+Time spent: 30 mins
+-Matias
+![tumbnail](https://lookout.hackclub.com/api/media/13df848e-80b5-4f8b-9f90-24ee8b4edf4c/thumbnail.jpg)
+
+# June 28th: A ton of stuff with DRC, and skew correction
+
+Today I redid the entire thing and offically lost count with the mini revisions. Who cares. I also fumbled with the auto skew settings on Kicad for a solid 30 minutes... lol. I'm learning a lot about PCB design throughout this entire project. It's teaching me a lot and I'm happy about it.
+
+# June 29th: Same thing as yesterday
+
+Today I learned about JLCPCB manufacturing rules and set up DRC to make sure I stay within those bounds. I did some small refinements on serial communication and also did some more with skew settings, a lot of screaming at my display was involved.
+
+Time spent: ~5hrs
+-Matias
+![thumbnail](https://lookout.hackclub.com/api/media/fe4c176a-103d-46ff-ac1c-d4112bef221e/thumbnail.jpg)
+
+# June 30th: Presentaion and cleanup
+
+Most of my time today was centered around cleaning up the messy schematic so I could post it online for review. Then the rest of the three hours was spent on making a google slideshow as a presentation and roadmap and also making a diagram on function.
+
+Time spent: ~3hrs
+-Matias
+![thumbnail](scrn2.png)
+
+# July 1st: Creating the third major PCB revision
+
+I refined my tactics for more efficient floorplanning and I also redid the PCB again. I near the end learned how to create a BOM and select parts. Today was long but worth it considering the major steps I made from the point that I began at. I'm seriously enjoying this project and it's fun learning so much.
+
+Time Spent 5hrs
+-Matias
+![screenshot](scrn3.png)
