@@ -2,6 +2,8 @@
 
 Mk1 is the internal name of this project. I am using this as a way to learn about PCB design and embedded systems and make a "final" out of it. The "final" that I have made is a simple, low-cost, ESP32-S3 development board. I originally added tons of sensors and complexity but shaved them off to make the project more attainable. The board functions similar to most other boards, boasting a USB to Serial converter, a sample IMU sensor for SPI testing, and extra essentials like auto reset circuits and a voltage regulator. The board has gone well but I advise most to not use any of these designs for future projects of their own. If you do, don't be surprised when it blows up in your face.
 
+Horizions reviews please check in the /REVIEWERS folder
+
 Journal logs are in the /documentation folder of this repo
 
 The schematic breakdown goes as follows:
