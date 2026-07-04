@@ -2,7 +2,7 @@
 
 Mk1 is the internal name of this project. I am using this as a way to learn about PCB design and embedded systems and make a "final" out of it. The "final" that I have made is a simple, low-cost, ESP32-S3 development board. I originally added tons of sensors and complexity but shaved them off to make the project more attainable. The board functions similar to most other boards, boasting a USB to Serial converter, a sample IMU sensor for SPI testing, and extra essentials like auto reset circuits and a voltage regulator. The board has gone well but I advise most to not use any of these designs for future projects of their own. If you do, don't be surprised when it blows up in your face.
 
-Horizions reviews please check in the /REVIEWERS folder
+Horizons reviews please check in the /REVIEWERS folder
 
 Journal logs are in the /documentation folder of this repo
 
@@ -11,7 +11,7 @@ The schematic breakdown goes as follows:
 # The ESP32-S3
 
 ![ESP32](screenshot-2026_07-04_09-18-08.png)
-The power rails start with two decoupling capacitors before then merging with reset and boot cicuits through pull up resistors
+The power rails start with two decoupling capacitors before then merging with reset and boot circuit through pull up resistors
 
 # The IMU
 
@@ -46,5 +46,5 @@ The voltage regulator includes one TLV75533PDRV from TI and decoupling capacitor
 
 ![schematic](screenshot-2026-07-04_09-54-10.png)
 
-![PCB](sceenshot-2026-07-04_09-55-28.png)
+![PCB](screenshot-2026-07-04_09-55-28.png)
 The PCB is extremely messy.
