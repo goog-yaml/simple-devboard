@@ -212,3 +212,7 @@ Time Spent 5hrs
 Currently I am organizing files and tweaking issues with kicad and automatic backups. I am also starting to do more commits on a change basis instead of at the end of a workday.
 
 -Matias
+
+# July 5th: Updated BOM and component stripping
+
+Currently I updated the BOM because JLCPCB was trying to rip me off with insane prices for two custom boards. Uniroyal seems to be the goat of the budget world for insane low prices.

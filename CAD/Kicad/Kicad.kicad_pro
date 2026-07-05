@@ -594,11 +594,17 @@
       "/CBUS1": [
         "I/O"
       ],
+      "/CS": [
+        "Data"
+      ],
       "/CS_BUS_A": [
         "Data"
       ],
       "/CS_BUS_B": [
         "I/O"
+      ],
+      "/DTR": [
+        "Logic"
       ],
       "/DTR_A": [
         "Logic"
@@ -627,11 +633,17 @@
       "/IOOUT_A": [
         "Power"
       ],
+      "/MISO": [
+        "Data"
+      ],
       "/MISO_BUS_A": [
         "Data"
       ],
       "/MISO_BUS_B": [
         "I/O"
+      ],
+      "/MOSI": [
+        "Data"
       ],
       "/MOSI_BUS_A": [
         "Data"
@@ -648,8 +660,14 @@
       "/OROUT": [
         "HIPWR"
       ],
+      "/RTS": [
+        "Logic"
+      ],
       "/RTS_A": [
         "Logic"
+      ],
+      "/SCK": [
+        "Data"
       ],
       "/SCK_BUS_A": [
         "Data"
@@ -854,7 +872,7 @@
         "uuid": "fd0b8496-2354-4072-b49b-e154e75e1282"
       }
     ],
-    "used_designators": "J3-5,H1-4,R12-17,#PWR11,#PWR16,#PWR23-31,#PWR34-37,C1,C12-19,C21",
+    "used_designators": "U3,J2-5,H1-4,R12-17,#PWR1-3,#PWR11,#PWR16,#PWR23-31,#PWR34-37,D1,C1,C4,C7-8,C12-19,C21",
     "variants": []
   },
   "sheets": [
