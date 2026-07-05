@@ -216,3 +216,19 @@ Currently I am organizing files and tweaking issues with kicad and automatic bac
 # July 5th: Updated BOM and component stripping
 
 Currently I updated the BOM because JLCPCB was trying to rip me off with insane prices for two custom boards. Uniroyal seems to be the goat of the budget world for insane low prices.
+
+# July 5th: Transistor swap
+
+I swapped out the old transistors with the auto reset for new MMBT3904 ones because the old ones were problematic with pinouts. I guess everybody online hates dealing with transistors because according to an online user:
+
+> "SOT23 pin numbering has been troublesome for at least 30 years.
+“Industry” can not agree with themselves on which side pin number 1 is."
+-paulvdh (KiCad fourms)
+
+-Matias
+
+# July 5th: Rev 4
+
+Just finished rev 4! I updated the BOM to change over to JLCPCB basic parts to decrease costs for assembly. The quote seems to be around $50 for 5. Good from rev2 being almost 50 for just 50 non assembled boards. Yeesh.
+
+-Matias
