@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "TLV775") (type "KiCad") (uri "${KIPRJMOD}/Sym/TLV775/2026-06-26_22-22-21.kicad_sym") (options "") (descr ""))
-)

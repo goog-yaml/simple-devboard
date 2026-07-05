@@ -686,7 +686,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerber/rev3/",
+      "plot": "FINISHED PRODUCTION/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -783,6 +783,18 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "C118538",
+          "name": "C118538",
           "show": false
         }
       ],

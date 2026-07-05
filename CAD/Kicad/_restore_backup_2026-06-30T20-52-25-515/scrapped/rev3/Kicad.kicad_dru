@@ -1,5 +1,0 @@
-(version 1)
-
-(rule "Diff_Pair_Skew"
-    (constraint skew (max 5mil))
-    (condition "AB.isCoupledDiffPair()"))

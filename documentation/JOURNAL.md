@@ -1,7 +1,7 @@
 ---
 Title: "Cloudboard"
 Author: "Matias Argandona AKA Goog07,Goog-hash,Goog-yaml"
-Description: "An ESP based develoment board using two processors, one low power and one high power that run side by side."
+Description: "An Extremely simple ESP based devboard that I usedas a learning experince for PCB design"
 Created_at: "2025-05-24"
 ---
 
@@ -206,3 +206,9 @@ I refined my tactics for more efficient floorplanning and I also redid the PCB a
 Time Spent 5hrs
 -Matias
 ![screenshot](scrn3.png)
+
+# July 5th: Happy Fourth! Organizing files
+
+Currently I am organizing files and tweaking issues with kicad and automatic backups. I am also starting to do more commits on a change basis instead of at the end of a workday.
+
+-Matias
