@@ -6475,7 +6475,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C131361"
 			(at 173.99 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8329,7 +8329,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "200R"
 			(at 109.22 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8372,7 +8372,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C25087"
 			(at 109.22 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -9875,7 +9875,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C131361"
 			(at 217.17 53.34 0)
 			(hide yes)
 			(show_name no)

@@ -189,7 +189,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C131361"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -310,7 +310,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "200R"
 			(at 0 1 0)
 			(layer "F.Fab")
 			(uuid "bdea9f24-0734-4193-b124-6bc2942e7d9a")
@@ -355,7 +355,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C25087"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7801,7 +7801,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4109"
+		(property "LCSC Part #" "C131361"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")

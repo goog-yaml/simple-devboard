@@ -1,7 +1,7 @@
 ---
-Title: "Cloudboard"
+Title: "Simple Devboard"
 Author: "Matias Argandona AKA Goog07,Goog-hash,Goog-yaml"
-Description: "An Extremely simple ESP based devboard that I usedas a learning experince for PCB design"
+Description: "A simple ESP based devboard that I used as a learning experince for PCB design"
 Created_at: "2025-05-24"
 ---
 
